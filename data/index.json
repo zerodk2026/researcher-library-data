@@ -2,10 +2,10 @@
   "meta": {
     "knowledge_base_name": "研究员库",
     "total_researchers": 32,
-    "total_records": 108,
+    "total_records": 109,
     "total_main_records": 97,
     "total_sub_records": 11,
-    "total_subjects": 62
+    "total_subjects": 66
   },
   "researchers": [
     {
@@ -1727,6 +1727,25 @@
       },
       "rating": "★★★★",
       "style": ""
+    },
+    {
+      "name": "超级鹿鼎公",
+      "subjects": {
+        "实盘月报": [
+          {
+            "title": "游戏仓2026年6月月报 — 单月亏损15.15%，史上最大单月亏损",
+            "date": "2026-06-30",
+            "direction": "实盘月报",
+            "subject": "实盘月报",
+            "is_main": true,
+            "content": "# 游戏仓2026年6月月报\n\n> 发布于 2026-06-30 [雪球](https://xueqiu.com/8790885129/397610723)\n\n## 本月业绩\n\n| 指标 | 数值 |\n|------|------|\n| 月初净值 | 1999.1W |\n| 月末净值 | 1696W |\n| 本月亏损金额 | 302.9W |\n| 本月亏损比例 | **-15.15%** |\n| 上证本月涨幅 | +0.63% |\n| 本月跑输 | -15.78% |\n\n## 本年业绩\n\n| 指标 | 数值 |\n|------|------|\n| 年初净值 | 1762.5W |\n| 当前净值 | 1696W |\n| 本年亏损金额 | 66.5W |\n| 本年亏损比例 | **-3.77%** |\n| 上证年线涨幅 | +3.16% |\n| 本年跑输 | -6.93% |\n\n## 研究员自评\n\n> 史上亏损最大金额的月份，水平差，没啥好说的，PS图供批判用，年纪大了，固执是特质，所以还会继续错下去。\n\n## 游戏仓历史年度收益\n\n| 年度 | 收益率 |\n|------|--------|\n| 2015年（8月入市） | +4% |\n| 2016年 | +19% |\n| 2017年 | +29% |\n| 2018年 | -10% |\n| 2019年 | +40% |\n| 2020年 | +8.8% |\n| 2021年 | +36.83% |\n| 2022年 | +41.85% |\n| 2023年 | +43.06% |\n| 2024年 | +38.70% |\n| 2025年 | +19.08% |\n| 2026年YTD | -3.77% |\n\n## 游戏仓累计净值\n\n- 累积净值：1896W\n- 净值指数：**9.6451**（年初 10.0230）\n- 2015年8月18日3999点入市，起点指数为1（阳历计算）\n\n## 主仓情况\n\n- 主仓2014年春节开始\n- 马年结算周期亏损 **-7.71%**\n- 指数化净值 36.0392（马年起始指数 39.0499）\n",
+            "summary": "游戏仓6月收盘1696W，单月亏损302.9W(-15.15%)，史上最大单月亏损；本年亏损3.77%"
+          }
+        ]
+      },
+      "item_count": 1,
+      "rating": 0,
+      "style": ""
     }
   ],
   "subject_index": [
@@ -1739,23 +1758,15 @@
       "count": 7
     },
     {
+      "subject": "宏观观点",
+      "count": 6
+    },
+    {
       "subject": "腾讯",
       "count": 5
     },
     {
-      "subject": "重庆机电",
-      "count": 3
-    },
-    {
       "subject": "中国宏桥",
-      "count": 3
-    },
-    {
-      "subject": "王氏港建",
-      "count": 3
-    },
-    {
-      "subject": "特变电工",
       "count": 3
     },
     {
@@ -1763,11 +1774,23 @@
       "count": 3
     },
     {
+      "subject": "特变电工",
+      "count": 3
+    },
+    {
+      "subject": "王氏港建",
+      "count": 3
+    },
+    {
+      "subject": "重庆机电",
+      "count": 3
+    },
+    {
       "subject": "明泰铝业",
       "count": 3
     },
     {
-      "subject": "龙资源",
+      "subject": "波司登",
       "count": 2
     },
     {
@@ -1783,11 +1806,7 @@
       "count": 2
     },
     {
-      "subject": "波司登",
-      "count": 2
-    },
-    {
-      "subject": "中国海洋石油",
+      "subject": "铜陵有色",
       "count": 2
     },
     {
@@ -1799,7 +1818,7 @@
       "count": 2
     },
     {
-      "subject": "铜陵有色",
+      "subject": "中国海洋石油",
       "count": 2
     },
     {
@@ -1807,35 +1826,19 @@
       "count": 2
     },
     {
-      "subject": "亚太资源",
+      "subject": "龙资源",
+      "count": 2
+    },
+    {
+      "subject": "阜丰集团",
       "count": 1
     },
     {
-      "subject": "龙湖集团",
+      "subject": "海天国际",
       "count": 1
     },
     {
-      "subject": "黑芝麻智能",
-      "count": 1
-    },
-    {
-      "subject": "信邦控股",
-      "count": 1
-    },
-    {
-      "subject": "中国太平",
-      "count": 1
-    },
-    {
-      "subject": "赛轮轮胎",
-      "count": 1
-    },
-    {
-      "subject": "耐普矿机",
-      "count": 1
-    },
-    {
-      "subject": "新城发展",
+      "subject": "海丰国际",
       "count": 1
     },
     {
@@ -1843,7 +1846,39 @@
       "count": 1
     },
     {
-      "subject": "新城控股",
+      "subject": "华阳股份",
+      "count": 1
+    },
+    {
+      "subject": "阿里巴巴",
+      "count": 1
+    },
+    {
+      "subject": "投资收益率计算公式",
+      "count": 1
+    },
+    {
+      "subject": "盐湖",
+      "count": 1
+    },
+    {
+      "subject": "中远海发",
+      "count": 1
+    },
+    {
+      "subject": "投资收益率计算公式_原始图片.png",
+      "count": 1
+    },
+    {
+      "subject": "京东方",
+      "count": 1
+    },
+    {
+      "subject": "金钼股份",
+      "count": 1
+    },
+    {
+      "subject": "洛阳钼业",
       "count": 1
     },
     {
@@ -1852,10 +1887,6 @@
     },
     {
       "subject": "北方矿业",
-      "count": 1
-    },
-    {
-      "subject": "大行科工",
       "count": 1
     },
     {
@@ -1875,14 +1906,6 @@
       "count": 1
     },
     {
-      "subject": "天坛生物",
-      "count": 1
-    },
-    {
-      "subject": "宏达股份",
-      "count": 1
-    },
-    {
       "subject": "京能电力",
       "count": 1
     },
@@ -1895,31 +1918,19 @@
       "count": 1
     },
     {
-      "subject": "华阳股份",
+      "subject": "信邦控股",
       "count": 1
     },
     {
-      "subject": "阿里巴巴",
+      "subject": "中国太平",
       "count": 1
     },
     {
-      "subject": "中国动力",
+      "subject": "天坛生物",
       "count": 1
     },
     {
-      "subject": "中国船舶",
-      "count": 1
-    },
-    {
-      "subject": "中远海能",
-      "count": 1
-    },
-    {
-      "subject": "心动公司",
-      "count": 1
-    },
-    {
-      "subject": "华润电力",
+      "subject": "宏达股份",
       "count": 1
     },
     {
@@ -1939,18 +1950,6 @@
       "count": 1
     },
     {
-      "subject": "阜丰集团",
-      "count": 1
-    },
-    {
-      "subject": "海天国际",
-      "count": 1
-    },
-    {
-      "subject": "海丰国际",
-      "count": 1
-    },
-    {
       "subject": "小米集团",
       "count": 1
     },
@@ -1959,23 +1958,59 @@
       "count": 1
     },
     {
-      "subject": "盐湖",
+      "subject": "亚太资源",
       "count": 1
     },
     {
-      "subject": "中远海发",
+      "subject": "黑芝麻智能",
       "count": 1
     },
     {
-      "subject": "京东方",
+      "subject": "赛轮轮胎",
       "count": 1
     },
     {
-      "subject": "金钼股份",
+      "subject": "耐普矿机",
       "count": 1
     },
     {
-      "subject": "洛阳钼业",
+      "subject": "新城发展",
+      "count": 1
+    },
+    {
+      "subject": "新城控股",
+      "count": 1
+    },
+    {
+      "subject": "中国动力",
+      "count": 1
+    },
+    {
+      "subject": "中国船舶",
+      "count": 1
+    },
+    {
+      "subject": "心动公司",
+      "count": 1
+    },
+    {
+      "subject": "华润电力",
+      "count": 1
+    },
+    {
+      "subject": "龙湖集团",
+      "count": 1
+    },
+    {
+      "subject": "大行科工",
+      "count": 1
+    },
+    {
+      "subject": "中远海能",
+      "count": 1
+    },
+    {
+      "subject": "实盘月报",
       "count": 1
     }
   ]
