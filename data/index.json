@@ -2,9 +2,9 @@
   "meta": {
     "knowledge_base_name": "研究员库",
     "total_researchers": 37,
-    "total_records": 135,
+    "total_records": 137,
     "total_main_records": 118,
-    "total_sub_records": 17,
+    "total_sub_records": 19,
     "total_subjects": 84
   },
   "researchers": [
@@ -1655,7 +1655,7 @@
     },
     {
       "name": "修身德真",
-      "item_count": 1,
+      "item_count": 3,
       "subjects": {
         "龙湖集团": [
           {
@@ -1669,6 +1669,34 @@
             "date": "2026-06-24",
             "is_main": true,
             "content_preview": "# 修身德真 — 龙湖集团 研究记录    研究员评级：★ 建档日期：2026-06-24  ## 研究成果  |||||| |---|---|---|---|---| ||||||  在此下方追加新的研究成果记录"
+          }
+        ],
+        "新城控股": [
+          {
+            "title": "新城控股_2026-07-20 — 跟踪标的（占位）",
+            "subject": "新城控股",
+            "subfolder": "新城控股",
+            "path": "修身德真/新城控股/新城控股_2026-07-20_跟踪占位.md",
+            "content": "# 跟踪标的（待补充观点）\n\n> **状态**：跟踪中，暂无具体观点\n> **日期**：2026-07-20\n\n本标的已纳入跟踪，后续有具体观点时会补充更新。",
+            "rating": "",
+            "direction": "",
+            "date": "2026-07-20",
+            "is_main": false,
+            "content_preview": "跟踪标的（占位），暂无具体观点，后续补充。"
+          }
+        ],
+        "新城发展": [
+          {
+            "title": "新城发展_2026-07-20 — 跟踪标的（占位）",
+            "subject": "新城发展",
+            "subfolder": "新城发展",
+            "path": "修身德真/新城发展/新城发展_2026-07-20_跟踪占位.md",
+            "content": "# 跟踪标的（待补充观点）\n\n> **状态**：跟踪中，暂无具体观点\n> **日期**：2026-07-20\n\n本标的已纳入跟踪，后续有具体观点时会补充更新。",
+            "rating": "",
+            "direction": "",
+            "date": "2026-07-20",
+            "is_main": false,
+            "content_preview": "跟踪标的（占位），暂无具体观点，后续补充。"
           }
         ]
       },
@@ -2098,6 +2126,10 @@
       "count": 5
     },
     {
+      "subject": "新城发展",
+      "count": 4
+    },
+    {
       "subject": "紫金矿业",
       "count": 3
     },
@@ -2127,10 +2159,6 @@
     },
     {
       "subject": "明泰铝业",
-      "count": 3
-    },
-    {
-      "subject": "新城发展",
       "count": 3
     },
     {
@@ -2167,6 +2195,10 @@
     },
     {
       "subject": "龙资源",
+      "count": 2
+    },
+    {
+      "subject": "新城控股",
       "count": 2
     },
     {
@@ -2327,10 +2359,6 @@
     },
     {
       "subject": "耐普矿机",
-      "count": 1
-    },
-    {
-      "subject": "新城控股",
       "count": 1
     },
     {
