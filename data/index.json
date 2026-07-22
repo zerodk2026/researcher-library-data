@@ -1,11 +1,11 @@
 {
   "meta": {
     "knowledge_base_name": "研究员库",
-    "total_researchers": 38,
-    "total_records": 138,
+    "total_researchers": 37,
+    "total_records": 136,
     "total_main_records": 118,
     "total_sub_records": 19,
-    "total_subjects": 84
+    "total_subjects": 83
   },
   "researchers": [
     {
@@ -1342,42 +1342,6 @@
       "style": ""
     },
     {
-      "name": "郭小松",
-      "item_count": 2,
-      "subjects": {
-        "吉利汽车": [
-          {
-            "title": "吉利汽车",
-            "subject": "吉利汽车",
-            "subfolder": "",
-            "path": "郭小松/吉利汽车.md",
-            "content": "# 郭小松 — 吉利汽车 研究记录\n\n\n\n研究员评级：★★\n建档日期：2026-06-24\n\n## 研究成果\n\n||||||\n|---|---|---|---|---|\n||||||\n\n在此下方追加新的研究成果记录\n\n",
-            "rating": "★★",
-            "direction": "",
-            "date": "2026-06-24",
-            "is_main": true,
-            "content_preview": "# 郭小松 — 吉利汽车 研究记录    研究员评级：★★ 建档日期：2026-06-24  ## 研究成果  |||||| |---|---|---|---|---| ||||||  在此下方追加新的研究成果记录"
-          }
-        ],
-        "黑芝麻智能": [
-          {
-            "title": "黑芝麻智能",
-            "subject": "黑芝麻智能",
-            "subfolder": "",
-            "path": "郭小松/黑芝麻智能.md",
-            "content": "# 郭小松 — 黑芝麻智能 研究记录\n\n\n\n研究员评级：★★\n建档日期：2026-06-24\n\n## 研究成果\n\n||||||\n|---|---|---|---|---|\n||||||\n\n在此下方追加新的研究成果记录\n\n",
-            "rating": "★★",
-            "direction": "",
-            "date": "2026-06-24",
-            "is_main": true,
-            "content_preview": "# 郭小松 — 黑芝麻智能 研究记录    研究员评级：★★ 建档日期：2026-06-24  ## 研究成果  |||||| |---|---|---|---|---| ||||||  在此下方追加新的研究成果记录"
-          }
-        ]
-      },
-      "rating": "★★",
-      "style": ""
-    },
-    {
       "name": "闵行一霸",
       "item_count": 2,
       "subjects": {
@@ -2134,7 +2098,7 @@
     },
     {
       "subject": "吉利汽车",
-      "count": 7
+      "count": 6
     },
     {
       "subject": "宏观观点",
@@ -2370,10 +2334,6 @@
     },
     {
       "subject": "亚太资源",
-      "count": 1
-    },
-    {
-      "subject": "黑芝麻智能",
       "count": 1
     },
     {
